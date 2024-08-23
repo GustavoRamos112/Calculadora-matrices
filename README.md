@@ -33,8 +33,8 @@ cd ./Calculadora-matrices
 Y ya teniendo un compilador de c++, simplemente ejecutas:
 
 ```
-clang++ Calculadora.cpp -o Calculadorai
-./Calculadorai
+clang++ main.cpp -o maini
+./maini
 ```
 
 El agregarle una "i" al final del nombre al momento de la compilación es solo para diferencial el compilado del código, pero puedes agregar el nombre que quieras.

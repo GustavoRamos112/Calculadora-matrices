@@ -33,7 +33,7 @@ cd ./Calculadora-matrices
 Y ya teniendo un compilador de c++, simplemente ejecutas:
 
 ```
-g++ Calculadora.cpp -o Calculadorai
+clang++ Calculadora.cpp -o Calculadorai
 ./Calculadorai
 ```
 

@@ -1,21 +1,6 @@
 ## Calculadora de operaciones con matrices
 
-Durante estos días me propuse hacer una calcula de matrices pues durante toda mi carrera necesite hacer cálculos con matrices y las páginas que me ayudaban a ello no me funcionaban si no estaba estrictamente conectado a internet, además que es un buen reto.
-
-
-Este programa solo contiene los comentarios en el mismo código que explican como funciona cada una de las funciones y de igual manera explico cada concepto usando **//Itz** cuál está configurado en mi *settings.json* en VS con la extensión *Better Comments* como:
-
-```
-{
-    "tag": "Itz",
-    "color": "#FF00DC",
-    "strikethrough": false,
-    "underline": false,
-    "backgroundColor": "transparent",
-    "bold": false,
-    "italic": false
-},
-```
+Calculadora de uso local que sirve leyendo un archivo donde se ponen las matrices y la operación a realizar para después entregar (o mostrar por terminal) el resultado de dicha operación (suma, resta, multiplicación por constante, multiplicación matricial, inversa, determinante)
 
 ## Compilar programa
 Primero tienes que clonar el repositorio:
